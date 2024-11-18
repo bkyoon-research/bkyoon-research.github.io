@@ -13,29 +13,16 @@ I am a master student of Mechanical Engineering at Seoul National University, Se
 Robotics, Field Mobile Robot, Robot Perception, Mobile Robot Navigation, Multi-Robot System
 
 ## Publications
+### Journal
+**B. Yoon**, S. Hong, D. Lee. Directional Correspondence Based Cross-Source Point Cloud Registration for
+USV-UAV Cooperation in Wild Outdoor. IEEE Robotics and Automation Letters, Under review.
+
+[W. Lee, **B. Yoon (Co-first)** et al. Machine Learning-Aided Three-Dimensional Morphological Quantification of Angiogenic Vasculature in the Multiculture Microfluidic Platform. BioChip J. 17, 357–368 (2023). Published](https://link.springer.com/article/10.1007/s13206-023-00114-2)
+
+### Conference
+T. Kim, **B. Yoon**, D. Lee. UWB-Based Localization System Considering Antenna Anisotropy and NLOS/Multipath
+Conditions. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024. Published
+
+T. Kim, **B. Yoon**, D. Lee. UWB-Based Localization System Considering Antenna Anisotropy and NLOS Conditions. Institute of Control, Robotics and Systems (ICROS) 2024. Published
 
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
