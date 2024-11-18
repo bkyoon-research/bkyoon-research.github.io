@@ -1,6 +1,6 @@
 title: Byoungkwon Yoon 
 url: "https://bkyoon-research.github.io"
-baseurl: "/index"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/index"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
