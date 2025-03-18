@@ -15,7 +15,7 @@ Robotics, Field Mobile Robot, Robot Perception, Mobile Robot Navigation, Multi-R
 ## Publications
 ### Journal
 **B. Yoon**, S. Hong, D. Lee. Directional Correspondence Based Cross-Source Point Cloud Registration for
-USV-UAV Cooperation in Wild Outdoor. IEEE Robotics and Automation Letters, 2024, Accepted. [Link](https://ieeexplore.ieee.org/document/10816390)
+USV-UAV Cooperation in Lentic Environments. IEEE Robotics and Automation Letters, 2025, Published. [Link](https://ieeexplore.ieee.org/document/10816390) | [Youtube](https://www.youtube.com/watch?v=MwMY65CztuY)
 
 W. Lee, **B. Yoon (Co-first)** et al. Machine Learning-Aided Three-Dimensional Morphological Quantification of Angiogenic Vasculature in the Multiculture Microfluidic Platform. BioChip J. 17, 357–368 (2023). Published [Link](https://link.springer.com/article/10.1007/s13206-023-00114-2)
 
