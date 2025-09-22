@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a master student of Mechanical Engineering at Seoul National University, Seoul, South Korea.
+I am a Ph.D. student of Mechanical Engineering at Purdue University, IN, USA.
 
 ## Research Interest
 
-Robotics, Field Mobile Robot, Robot Perception, Mobile Robot Navigation, Multi-Robot System
+Robotics, Robot Perception, Mobile Robot Navigation, Multi-Robot System
 
 ## Publications
 ### Journal

@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [dbss1126@snu.ac.kr](mailto:dbss1126@snu.ac.kr)
+* Email: [yoon358@purdue.edu](mailto:yoon358@purdue.edu)
 
 <!-- * Phone: [+91-123123](tel:+91-123123) -->
 
