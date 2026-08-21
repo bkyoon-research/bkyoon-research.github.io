@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 ---
@@ -62,4 +61,3 @@ UWB-Based Localization System Considering Antenna Anisotropy and NLOS/Multipath 
 T. Kim, **B. Yoon**, D. Lee.  
 UWB-Based Localization System Considering Antenna Anisotropy and NLOS Conditions.  
 *Institute of Control, Robotics and Systems (ICROS)*, 2024.
-```
