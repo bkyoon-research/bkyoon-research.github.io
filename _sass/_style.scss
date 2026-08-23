@@ -72,6 +72,21 @@ hr {
     min-height: 100%;
 }
 
+.video-row {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    width: 100%;
+    margin: 16px 0;
+}
+
+.video-row video {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
 /* Institute Image */
 
 #ins-logo {
@@ -100,6 +115,10 @@ hr {
 }
 
 @media (max-width: 500px) {
+	.video-row {
+		grid-template-columns: 1fr;
+	}
+
 	.navbar {
 		text-align: center;
 		padding: 50px 0px 0px 0px;

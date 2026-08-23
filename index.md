@@ -18,45 +18,80 @@ Robot Perception · 3D Scene Reconstruction · Robot Learning · Dexterous Manip
 
 ## Publications
 
-### Journal Articles
+### *Journal Articles*
 
-H. Lee, Y. Sim, J. Jang, **B. Yoon**, *et al.*  
 Toward Provably Safe AI-Driven Perception and Motion Planning for Robotic Manufacturing: A Review.  
 *Journal of Manufacturing Systems*, 2026.  
+H. Lee, Y. Sim, J. Jang, **B. Yoon**, *et al.*  
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S0278612526001974)
 
-J. Kang, J. Choe, D. Kong, **B. Yoon**, *et al.*  
+---
+
 Fast and Robust Online Initialization of Monocular Visual-Inertial Odometry via One-Dimensional Cost Approximation.  
 *IEEE Transactions on Robotics*, 2026.  
+J. Kang, J. Choe, D. Kong, **B. Yoon**, *et al.*  
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/11488893)
 
-**B. Yoon**, S. Hong, D. Lee.  
+---
+
 Directional Correspondence Based Cross-Source Point Cloud Registration for USV-UAV Cooperation in Lentic Environments.  
 *IEEE Robotics and Automation Letters*, 2025.  
+**B. Yoon**, S. Hong, D. Lee.  
 
-[Paper](https://ieeexplore.ieee.org/document/10816390) | [YouTube](https://www.youtube.com/watch?v=MwMY65CztuY)
+[Paper](https://ieeexplore.ieee.org/document/10816390) / [YouTube](https://www.youtube.com/watch?v=MwMY65CztuY)
 
-W. Lee, **B. Yoon (Co-first)**, *et al.*  
+<div class="publication-media">
+    <img src="imgs/overview_CSPR.png"
+         alt="overview_CSPR"
+         loading="lazy">
+</div>
+
+---
+
+
 Machine Learning-Aided Three-Dimensional Morphological Quantification of Angiogenic Vasculature in the Multiculture Microfluidic Platform.  
 *BioChip Journal*, 17, 357–368, 2023.  
+W. Lee, **B. Yoon (Co-first)**, *et al.*  
 
-[Paper](https://link.springer.com/article/10.1007/s13206-023-00114-2)
+[Paper](https://link.springer.com/article/10.1007/s13206-023-00114-2) / [Github](https://github.com/won5830/Machine-learning-assisted-3D-angiogenesis-quantification)
 
-### Conference Papers
+<div class="publication-media">
+    <img src="imgs/overview_biochip.png"
+         alt="overview_biochip"
+         loading="lazy">
+</div>
 
-**B. Yoon**, *et al.*  
+---
+
+### *Conference Papers*
+
 LiDAR-Integrated Coarse-to-Fine Optimization for Geometrically Consistent Triangle Splatting from Mobile Robots.  
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026 (Accepted).  
+**B. Yoon**, *et al.*  
 
 *Paper and code coming soon.*
 
-T. Kim, **B. Yoon**, D. Lee.  
+<div class="video-row">
+  <video autoplay loop muted playsinline>
+    <source src="imgs/Tri_opti.webm" type="video/webm">
+  </video>
+
+  <video autoplay loop muted playsinline>
+    <source src="imgs/Tri_demo.webm" type="video/webm">
+  </video>
+</div>
+
+---
+
 UWB-Based Localization System Considering Antenna Anisotropy and NLOS/Multipath Conditions.  
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024.  
+T. Kim, **B. Yoon**, D. Lee.  
 
-[GitHub](https://github.com/INRoL/inrol_uwb_localization)
+[Paper](https://ieeexplore.ieee.org/document/10802170/) / [GitHub](https://github.com/INRoL/inrol_uwb_localization)
+
+---
 
 T. Kim, **B. Yoon**, D. Lee.  
 UWB-Based Localization System Considering Antenna Anisotropy and NLOS Conditions.  
