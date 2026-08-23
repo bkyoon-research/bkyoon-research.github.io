@@ -9,8 +9,8 @@ layout: default
 I am a Ph.D. student in Mechanical Engineering at Purdue University.
 
 My research focuses on developing generalizable robotic perception, learning, and manipulation methods for complex and underexplored environments. In particular, I am interested in using challenging environments, including precision manufacturing, as testbeds for advancing generalizable robotics rather than developing task-specific automation systems.
-Previously, I was with [INRoL](https://www.inrol.snu.ac.kr/), where my research focused on generalizable navigation and scene understanding for mobile robots.
 
+Previously, I was with [INRoL](https://www.inrol.snu.ac.kr/), where my research focused on generalizable navigation and scene understanding for mobile robots.
 I am currently with [LAMM](https://purduelamm.github.io/home/), where I use complex manufacturing environments as a testbed for developing generalizable robotic perception, learning, and manipulation methods, particularly by tackling challenging edge cases that are often underexplored in conventional robotics settings.
 
 ## Research Interests
