@@ -22,3 +22,5 @@ nav:
    link: "CV.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com/citations?user=Q4uoZ2MAAAAJ&hl=en"
