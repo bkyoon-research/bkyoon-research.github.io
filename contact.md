@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 * Email: [yoon358@purdue.edu](mailto:yoon358@purdue.edu)
-
+* LinkedIn; [https://www.linkedin.com/in/byoungkwon-yoon-6b5a2b242/](https://www.linkedin.com/in/byoungkwon-yoon-6b5a2b242/)
 <!-- * Phone: [+91-123123](tel:+91-123123) -->
 
 <!-- --- -->
