@@ -72,7 +72,7 @@ LiDAR-Integrated Coarse-to-Fine Optimization for Geometrically Consistent Triang
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026 (Accepted).  
 **B. Yoon**, *et al.*  
 
-*Paper and code coming soon.*
+[Project Page](https://purduelamm.github.io/lidar-ts-page/) / [Github](https://github.com/dbss1126/lidar-ts-release)
 
 <div class="video-row">
   <video autoplay loop muted playsinline>
